@@ -1,4 +1,4 @@
-FROM dockersample/staic-site
+FROM dockersample/static-site
 ENV AUTHOR="Takuya Izawa"
 
 
